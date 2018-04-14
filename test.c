@@ -2,5 +2,5 @@
 
 int main() {
     //master
-  return 0;
+  return 1;
 }
